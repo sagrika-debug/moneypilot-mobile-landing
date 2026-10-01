@@ -40,3 +40,7 @@
 
 .review-card blockquote{font-size:19px;line-height:1.55;margin-bottom:24px}
 @media(max-width:760px){.review-card blockquote{font-size:17px;line-height:1.6;margin-bottom:22px}}
+
+/* Original MoneyPilot logo, matching the /6 funnel. */
+.brand{gap:8px;font-family:'Inter',sans-serif;font-size:22px;font-weight:800;letter-spacing:-.025em;line-height:1}.brand>.brand-logo-icon{display:block;width:37px;height:auto;flex:none}.brand>.brand-wordmark{color:#000;white-space:nowrap}.brand>.brand-wordmark>span{color:#1c7359}.footer .brand{font-size:20px}.footer .brand-logo-icon{width:34px}
+@media(max-width:760px){.header .brand{font-size:18px}.header .brand-logo-icon{width:30px}.comparison-brand{font-size:22px}.footer .brand{font-size:20px}}

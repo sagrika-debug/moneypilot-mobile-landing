@@ -7,7 +7,7 @@ A responsive, static landing-page design for MoneyPilot. Published with GitHub P
 - `index.html` — page content
 - `styles-v2.css` — desktop and mobile styles
 - `app-v2.js` — navigation, review carousel, and sticky call to action
-- `hero-v2.png` and `favicon.svg` — artwork and site icon
+- `hero-v2.png`, `moneypilot-logo-icon.svg`, and `favicon.svg` — artwork and original MoneyPilot brand icons
 
 Open `index.html` to preview. No build or package installation is needed. Google Fonts load from the internet.
 
